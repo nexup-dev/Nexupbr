@@ -52,12 +52,12 @@
     "texto": "Clique em um projeto para abrir o site.",
     "botao": "Ver site",
     "itens": [
-      { "nome": "Ponto X", "tipo": "Restaurante", "descricao": "Site premium em preto e off-white, com rolagem suave e animações em várias seções.", "link": "https://claude.ai/artifact/K5qAoW93JMXXobiX5d8MXb" },
+      { "nome": "Portal das Oliveiras", "tipo": "Restaurante", "descricao": "Site premium em preto e off-white, com rolagem suave e animações em várias seções.", "link": "https:/portaldasoliveiras.vercel.app" },
       { "nome": "D’palha Churrascaria", "tipo": "Churrascaria", "descricao": "Site para churrascaria com visual acolhedor e foco em apresentar o cardápio.", "link": "https://claude.ai/artifact/2WE58AaxpNX88LBH43NsbS" },
       { "nome": "ICONTEC Construtora", "tipo": "Construção civil", "descricao": "Site interativo com desenhos animados no scroll, orçamentos e execução de obras.", "link": "https://claude.ai/artifact/NMK2PpDFt9NVBm1wcqXD1B" },
       { "nome": "Clube de Tiro Kobra", "tipo": "Tiro esportivo", "descricao": "Visual premium e minimalista em preto e vermelho, com foco em precisão e disciplina.", "link": "https://claude.ai/artifact/YZyUECKjW9RQ4GtP5shCTd" },
       { "nome": "Le’ Gelato Açaí", "tipo": "Açaíteria e sorveteria", "descricao": "Site responsivo, bonito e cheio de animações para uma açaíteria.", "link": "https://claude.ai/artifact/2y6ZaqpBcyj9GRveBiYUrN" },
-      { "nome": "BLACK Fitness", "tipo": "Academia", "descricao": "Site responsivo e minimalista, em preto e vermelho.", "link": "https://claude.ai/artifact/EynVhgFHDEoUFwXd4MAxsf" },
+      { "nome": "BLACK Fitness", "tipo": "Academia", "descricao": "Site responsivo e minimalista, em preto e vermelho.", "link": "https://blackfitness.netlify.app" },
       { "nome": "Construtora 3DO", "tipo": "Construção civil", "descricao": "Site institucional com serviços, depoimentos e pedido de orçamento.", "link": "https://claude.ai/artifact/EVTYHX5M6FXe7vT5ciu7eP" },
       { "nome": "Coxinha Dourada", "tipo": "Salgados", "descricao": "Cardápio com carrinho e pedido direto pelo WhatsApp.", "link": "https://claude.ai/artifact/YWoE9GHhTusRxa2aDnzHsD" },
       { "nome": "Fio & Trama", "tipo": "Loja de roupas", "descricao": "Site de loja de roupas com vitrine de produtos.", "link": "https://claude.ai/artifact/QLbYiqqkUtiHvMrSrrUDot" }

@@ -1,0 +1,83 @@
+{
+  "marca": { "nome": "Nexup", "email": "contato@nexup.com.br" },
+  "meta": { "titulo": "Nexup — Sua presença digital, em evolução" },
+  "nav": {
+    "links": [
+      { "texto": "Como funciona", "href": "#como" },
+      { "texto": "Recursos", "href": "#recursos" },
+      { "texto": "Páginas", "href": "#paginas" },
+      { "texto": "Projetos", "href": "#projetos" },
+      { "texto": "Resultados", "href": "#numeros" }
+    ],
+    "cta": { "texto": "Falar com a gente", "href": "#contato" }
+  },
+  "hero": {
+    "titulo": "Sua marca, sempre subindo.",
+    "texto": "Criamos sites elegantes e rápidos que apresentam sua marca com clareza e fazem sua audiência crescer.",
+    "botao1": { "texto": "Começar meu projeto", "href": "#contato" },
+    "botao2": { "texto": "Ver os projetos", "href": "#projetos" }
+  },
+  "faixa": ["Landing pages", "Design minimalista", "Animações", "Velocidade", "Resultados"],
+  "como": {
+    "titulo": "Do primeiro rascunho ao ar, em três passos.",
+    "passos": [
+      { "titulo": "Conversa", "texto": "Entendemos sua marca, seu público e o que o site precisa fazer por você." },
+      { "titulo": "Design", "texto": "Você vê cada página em protótipo e aprova antes de qualquer código." },
+      { "titulo": "Publicação", "texto": "Seu site entra no ar rápido, responsivo e pronto para receber visitas." }
+    ]
+  },
+  "recursos": {
+    "titulo": "Pouco ruído. Muito resultado.",
+    "cards": [
+      { "icone": "<path d=\"M6 32 L16 14 L24 26 L34 8\"/><path d=\"M26 8h8v8\"/>", "titulo": "Feito para crescer", "texto": "Estrutura pensada para converter visitantes em clientes desde o primeiro scroll." },
+      { "icone": "<rect x=\"5\" y=\"9\" width=\"30\" height=\"22\" rx=\"3\"/><path d=\"M5 15h30\"/>", "titulo": "Design minimalista", "texto": "Espaço, tipografia e cor trabalhando juntos. Nada sobra, tudo comunica." },
+      { "icone": "<path d=\"M22 4 10 22h9l-2 14 13-19h-9z\"/>", "titulo": "Carregamento veloz", "texto": "Páginas leves que abrem na hora, inclusive em conexões mais lentas." },
+      { "icone": "<rect x=\"12\" y=\"4\" width=\"16\" height=\"32\" rx=\"3\"/><path d=\"M18 31h4\"/>", "titulo": "Funciona em qualquer tela", "texto": "Do celular ao monitor grande, o layout se adapta sem perder elegância." },
+      { "icone": "<circle cx=\"20\" cy=\"20\" r=\"14\"/><path d=\"M20 12v8l6 4\"/>", "titulo": "Animações com propósito", "texto": "Movimento que guia o olhar e dá vida à página, sem atrapalhar a leitura." },
+      { "icone": "<path d=\"M20 4 6 10v10c0 8 6 13 14 16 8-3 14-8 14-16V10z\"/>", "titulo": "Seguro e estável", "texto": "Código limpo e organizado, fácil de manter e de evoluir com você." }
+    ]
+  },
+  "paginas": {
+    "titulo": "Cada página com um papel claro.",
+    "texto": "Escolha uma página para ver como ela se apresenta.",
+    "abas": [
+      { "rotulo": "Landing page", "url": "nexup.com.br" },
+      { "rotulo": "Serviços", "url": "nexup.com.br/servicos" },
+      { "rotulo": "Sobre nós", "url": "nexup.com.br/sobre" },
+      { "rotulo": "Contato", "url": "nexup.com.br/contato" }
+    ]
+  },
+  "projetos": {
+    "titulo": "Sites que já colocamos no ar.",
+    "texto": "Clique em um projeto para abrir o site.",
+    "botao": "Ver site",
+    "itens": [
+      { "nome": "Ponto X", "tipo": "Restaurante", "descricao": "Site premium em preto e off-white, com rolagem suave e animações em várias seções.", "link": "https://claude.ai/artifact/K5qAoW93JMXXobiX5d8MXb" },
+      { "nome": "D’palha Churrascaria", "tipo": "Churrascaria", "descricao": "Site para churrascaria com visual acolhedor e foco em apresentar o cardápio.", "link": "https://claude.ai/artifact/2WE58AaxpNX88LBH43NsbS" },
+      { "nome": "ICONTEC Construtora", "tipo": "Construção civil", "descricao": "Site interativo com desenhos animados no scroll, orçamentos e execução de obras.", "link": "https://claude.ai/artifact/NMK2PpDFt9NVBm1wcqXD1B" },
+      { "nome": "Clube de Tiro Kobra", "tipo": "Tiro esportivo", "descricao": "Visual premium e minimalista em preto e vermelho, com foco em precisão e disciplina.", "link": "https://claude.ai/artifact/YZyUECKjW9RQ4GtP5shCTd" },
+      { "nome": "Le’ Gelato Açaí", "tipo": "Açaíteria e sorveteria", "descricao": "Site responsivo, bonito e cheio de animações para uma açaíteria.", "link": "https://claude.ai/artifact/2y6ZaqpBcyj9GRveBiYUrN" },
+      { "nome": "BLACK Fitness", "tipo": "Academia", "descricao": "Site responsivo e minimalista, em preto e vermelho.", "link": "https://claude.ai/artifact/EynVhgFHDEoUFwXd4MAxsf" },
+      { "nome": "Construtora 3DO", "tipo": "Construção civil", "descricao": "Site institucional com serviços, depoimentos e pedido de orçamento.", "link": "https://claude.ai/artifact/EVTYHX5M6FXe7vT5ciu7eP" },
+      { "nome": "Coxinha Dourada", "tipo": "Salgados", "descricao": "Cardápio com carrinho e pedido direto pelo WhatsApp.", "link": "https://claude.ai/artifact/YWoE9GHhTusRxa2aDnzHsD" },
+      { "nome": "Fio & Trama", "tipo": "Loja de roupas", "descricao": "Site de loja de roupas com vitrine de produtos.", "link": "https://claude.ai/artifact/QLbYiqqkUtiHvMrSrrUDot" }
+    ]
+  },
+  "numeros": {
+    "titulo": "Presença que se nota nos números.",
+    "itens": [
+      { "n": 3, "sufixo": "x", "texto": "mais visitas em média após o lançamento" },
+      { "n": 98, "sufixo": "%", "texto": "de nota em velocidade nos testes de desempenho" },
+      { "n": 14, "sufixo": " dias", "texto": "para colocar um site completo no ar" }
+    ]
+  },
+  "final": {
+    "titulo": "Vamos colocar sua marca para subir?",
+    "texto": "Conte sua ideia e receba uma proposta em até dois dias úteis.",
+    "botao": "Enviar mensagem"
+  },
+  "rodape": {
+    "esquerda": "© 2026 Nexup. Todos os direitos reservados.",
+    "direita": "Feito com cuidado e muito roxo."
+  }
+}
